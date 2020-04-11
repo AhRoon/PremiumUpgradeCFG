@@ -27,5 +27,5 @@ To be able to use this config file, you'll need:
 
 # Credits
 Ah_Roon - The creator of this script
-redmyclan - Creator of Premium Upgrade Mod, made tutorials
-IS PUDDY - Made the complete commands list of Premium Upgrades
+[redmyclan](https://gamebanana.com/members/1192845) - Creator of Premium Upgrade Mod, made tutorials
+[IS PUDDY](https://gamebanana.com/members/1415382) - Made the complete commands list of Premium Upgrades
